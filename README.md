@@ -76,4 +76,3 @@ i18n
 关于该版翻译不恰当的请找她，下面是她的联系方式  
 * **博客/Blog:** <http://jsthon.com>  
 * **邮箱/Mail:** jsthonwong@gmail.com  
-
